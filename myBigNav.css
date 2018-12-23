@@ -1,0 +1,30 @@
+#logo{
+	float: left;
+	width:auto;
+	height: 50px;
+	padding: 3px;
+	margin: 10px 10px 1px 10px;
+}
+
+nav{
+	padding: 10px 0 10px 0;
+	font-size:1em;
+	width:100%;
+	text-align: right;
+	text-transform: uppercase;
+	margin:auto;
+	background-color:#4E8975;
+}
+
+nav li{
+	display: inline;
+	list-style-type: none;
+	padding-left: 0;
+	padding-right: 5px;
+}
+
+nav li a{
+	text-decoration: none;
+	color: #FFFFFF;
+	font-weight: bold;
+}
